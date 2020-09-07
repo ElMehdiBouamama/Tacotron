@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tacotron
 
 An implementation of Tacotron speech synthesis in TensorFlow.
@@ -179,5 +178,3 @@ Pull requests are welcome!
   * By Alex Barron: https://github.com/barronalex/Tacotron
   * By Kyubyong Park: https://github.com/Kyubyong/tacotron
 =======
-# Tacotron
->>>>>>> c03e193d2680dfbc7a78e6000478d70c0b4d3b08
