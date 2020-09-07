@@ -177,4 +177,3 @@ Pull requests are welcome!
 ## Other Implementations
   * By Alex Barron: https://github.com/barronalex/Tacotron
   * By Kyubyong Park: https://github.com/Kyubyong/tacotron
-=======
